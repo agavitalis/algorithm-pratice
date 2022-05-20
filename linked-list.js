@@ -34,7 +34,7 @@ class LinkedList {
         return counter;
     }
 
-    getirst() {
+    getFirst() {
         return this.head
     }
 
